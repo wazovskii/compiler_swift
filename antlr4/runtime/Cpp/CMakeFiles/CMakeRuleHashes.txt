@@ -1,0 +1,14 @@
+# Hashes of file build rules.
+836e29ee1070b59c4723a31fd2bd446d demo/CMakeFiles/GenerateParser
+fd42e27d4ce2dc1dd3f8bcb6eea5470b demo/generated/TLexer.cpp
+4df9acb2c70ad1e48addf0803a67c122 runtime/CMakeFiles/make_lib_output_dir
+26fabc8f0960b62ccd0de9f498e188b8 runtime/CMakeFiles/utfcpp
+26fabc8f0960b62ccd0de9f498e188b8 runtime/CMakeFiles/utfcpp-build
+86e837fe39920f491077ffffbfc0ed34 runtime/CMakeFiles/utfcpp-complete
+2773bf33d9a96ccaa7868f3102b7ee87 runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-build
+316de39b154da4f2726751cec7217f2b runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-configure
+da98172488b063d4ff1b7b78c13a2acf runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-download
+e4967516cd640468f4cfaf8fff1f160f runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-install
+a4778c288950d97d8b4f65630f1d1399 runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-mkdir
+ce8e5f4aff7fd654ed3f7a275fc2d115 runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-patch
+6a5122db22c051fc2ac47a3384b1af88 runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-test

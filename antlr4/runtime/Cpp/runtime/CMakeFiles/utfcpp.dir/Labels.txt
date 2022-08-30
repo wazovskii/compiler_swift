@@ -1,0 +1,13 @@
+# Target labels
+ utfcpp
+# Source files and their labels
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/CMakeFiles/utfcpp
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/CMakeFiles/utfcpp.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/CMakeFiles/utfcpp-complete.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-install.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-mkdir.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-download.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-patch.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-configure.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-build.rule
+/Users/wazovski/Desktop/compiler_swift/antlr4/runtime/Cpp/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-test.rule
