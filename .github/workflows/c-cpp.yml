@@ -9,7 +9,7 @@ on:
 jobs:
   test:
 
-    runs-on: Ubuntu-latest
+    runs-on: Ubuntu-16.04
 
     steps:
     - name: Checkout repository
