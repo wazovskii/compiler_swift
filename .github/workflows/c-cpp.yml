@@ -9,7 +9,7 @@ on:
 jobs:
   test:
 
-    runs-on: Ubuntu-16.04
+    runs-on: macos-latest
 
     steps:
     - name: Checkout repository
