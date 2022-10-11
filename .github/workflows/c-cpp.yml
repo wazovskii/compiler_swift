@@ -15,4 +15,4 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@main
     - name: make
-      run: clean && make
+      run: make clean && make
